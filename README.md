@@ -7,12 +7,12 @@
 
 
 
-![](https://github.com/tamarapopova/hw9/blob/master/3.PNG)
+![](https://github.com/tamarapopova/hw9/blob/master/2.PNG)
 Использовала регулярное выражение: [А-Я]+\w+слав+\w+  Всего упоминаний о князьях нашел: 564
 
 
 
 
 
-![](https://github.com/tamarapopova/hw9/blob/master/2.PNG)
+![](https://github.com/tamarapopova/hw9/blob/master/3.PNG)
 Использовала регулярное выражение: Нову?ѣ?ъ?а?городѣ?ъ?(а|у|е)?  Всего упоминаний Новгорода нашел: 59
